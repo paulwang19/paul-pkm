@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "62394e814cd2cb80",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e29b447f2c007e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21d6f38625ae7b77",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49636b08c473f85c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b6f4af6b2306912",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55fa80b06861ff65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "103f3e1d84c1805a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a7400e4bcfda1683",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.49999618530273
+  },
+  "right": {
+    "id": "72f62d3cc3f3708e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6ada97c67415be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "562dc0f58c157426",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "186afb172dd08400",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "eaa2aa4f0d70222e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f98d30971882f01e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "3d5fe2306a92b67f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "21d6f38625ae7b77",
+  "lastOpenFiles": [
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "卡片盒筆記法使用說明.md",
+    "Untitled.md",
+    "template/template_來源筆記.md",
+    "template/template_主題筆記.md",
+    "template/template_名詞筆記.md",
+    "template/template_關係筆記.md",
+    "example/example_LCD vs OLED 顯示技術比較.md",
+    "example/example_C++ - vector vs deque 選擇指南.md",
+    "example/example_C++ - vector.md",
+    "example/example_學習 Rust 程式語言 MOC.md",
+    "example/example_與 LLM 關於螢幕顯示原理的問答.md",
+    "example/example_像素 (Pixel) 與子像素.md",
+    "example/example_個人知識管理 MOC.md",
+    "example/example_電腦硬體 MOC.md",
+    "example/example_卡片盒筆記法體現了複利效應.md",
+    "template",
+    "01_Inbox/📥 TED 演講「為一人利基而打造」觀後感.md",
+    "02_Notes/🔗 最小可行社群 vs 最小可行產品.md",
+    "02_Notes/📖 最小可行產品 (Minimum Viable Product).md",
+    "02_Notes/📖 最小可行社群 (Minimum Viable Community).md",
+    "02_Notes/📖 一人利基 (Niche of One).md",
+    "02_Notes/ReLU 函數.md",
+    "03_Maps/MOC - 機器學習.md",
+    "03_Maps/MOC - C++ STL.md",
+    "03_Maps/🗺 電腦硬體主題.md",
+    "03_Maps/🗺 創業哲學主題.md",
+    "example",
+    "01_Inbox",
+    "01_sources",
+    "04_Assets/Pasted image 20251107234101.png",
+    "04_assets"
+  ]
+}
