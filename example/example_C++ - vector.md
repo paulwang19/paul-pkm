@@ -13,7 +13,6 @@ vector 是動態陣列，支援隨機存取。記憶體連續儲存，可自動�
 # 基礎操作
 
 ## 建立
-
 	#include <vector>
 	using namespace std;
 	
@@ -24,7 +23,6 @@ vector 是動態陣列，支援隨機存取。記憶體連續儲存，可自動�
 	vector<int> v5(v4);                // 複製
 
 ## 存取
-
 	v[i];        // 不檢查邊界
 	v.at(i);     // 檢查邊界，越界拋例外
 	v.front();   // 第一個元素
@@ -32,7 +30,6 @@ vector 是動態陣列，支援隨機存取。記憶體連續儲存，可自動�
 	v.data();    // 指向底層陣列的指標
 
 ## 大小與容量
-
 	v.size();         // 元素數量
 	v.empty();        // 是否為空
 	v.capacity();     // 容量
@@ -41,7 +38,6 @@ vector 是動態陣列，支援隨機存取。記憶體連續儲存，可自動�
 	v.shrink_to_fit(); // 釋放多餘空間
 
 ## 修改
-
 	v.push_back(x);    // 尾端插入
 	v.pop_back();      // 尾端刪除
 	v.insert(pos, x);  // 指定位置插入
@@ -50,7 +46,6 @@ vector 是動態陣列，支援隨機存取。記憶體連續儲存，可自動�
 	v.emplace_back(args...); // 原地構造（更高效）
 
 ## 走訪
-
 	// 索引
 	for (int i = 0; i < v.size(); i++) {
 	    cout << v[i];
@@ -72,7 +67,6 @@ vector 是動態陣列，支援隨機存取。記憶體連續儲存，可自動�
 	}
 
 ## 常用演算法
-
 	#include <algorithm>
 	
 	sort(v.begin(), v.end());              // 排序

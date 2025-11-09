@@ -31,7 +31,6 @@ tags:
 **關鍵差異**：只有頭端操作！
 
 ## 決策流程
-
 	需要頻繁在頭部插入/刪除？
 		│
 		├─ 是 → deque
@@ -40,7 +39,6 @@ tags:
 ## 實際場景
 
 ### ✅ 用 vector
-
 	// 一般動態陣列
 	vector<int> data;
 	data.push_back(1);
@@ -51,7 +49,6 @@ tags:
 	stack.pop_back();
 
 ### ✅ 用 deque
-
 	// 佇列（頭部刪除，尾部插入）
 	deque<int> queue;
 	queue.push_back(x);    // 入隊
@@ -63,7 +60,6 @@ tags:
 	window.pop_front();    // 移除頭端
 
 ### ✅✅ 用標準適配器
-
 	queue<int> q;        // 佇列（底層預設 deque）
 	stack<int> s;        // 堆疊（底層預設 deque）
 

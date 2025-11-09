@@ -11,10 +11,14 @@
             "id": "44945c33e2c8be00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "example/example_C++ - vector vs deque 選擇指南.md",
+                "bFile": "example/example_C++ - vector vs deque 選擇指南.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: example_C++ - vector vs deque 選擇指南"
             }
           }
         ]
@@ -175,27 +179,27 @@
   },
   "active": "44945c33e2c8be00",
   "lastOpenFiles": [
+    "example/example_卡片盒筆記法體現了複利效應.md",
+    "example/example_個人知識管理 MOC.md",
+    "example/example_電腦硬體 MOC.md",
+    "example/example_像素 (Pixel) 與子像素.md",
+    "example/example_與 LLM 關於螢幕顯示原理的問答.md",
+    "example/example_學習 Rust 程式語言 MOC.md",
+    "example/example_C++ - vector.md",
+    "example/example_C++ - vector vs deque 選擇指南.md",
+    "example/example_LCD vs OLED 顯示技術比較.md",
+    "卡片盒筆記法使用說明.md",
     "Untitled 5.base",
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
-    "卡片盒筆記法使用說明.md",
     "Untitled.md",
     "template/template_來源筆記.md",
     "template/template_主題筆記.md",
     "template/template_名詞筆記.md",
     "template/template_關係筆記.md",
-    "example/example_LCD vs OLED 顯示技術比較.md",
-    "example/example_C++ - vector vs deque 選擇指南.md",
-    "example/example_C++ - vector.md",
-    "example/example_學習 Rust 程式語言 MOC.md",
-    "example/example_與 LLM 關於螢幕顯示原理的問答.md",
-    "example/example_像素 (Pixel) 與子像素.md",
-    "example/example_個人知識管理 MOC.md",
-    "example/example_電腦硬體 MOC.md",
-    "example/example_卡片盒筆記法體現了複利效應.md",
     "template",
     "01_Inbox/📥 TED 演講「為一人利基而打造」觀後感.md",
     "02_Notes/🔗 最小可行社群 vs 最小可行產品.md",
@@ -210,7 +214,6 @@
     "example",
     "01_Inbox",
     "01_sources",
-    "04_Assets/Pasted image 20251107234101.png",
-    "04_assets"
+    "04_Assets/Pasted image 20251107234101.png"
   ]
 }
