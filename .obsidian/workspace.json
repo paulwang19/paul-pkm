@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卡片盒筆記法使用說明.md",
-                "mode": "preview",
+                "file": "02_notes/瀏覽器渲染 CSS 決定寬度與高度的基本原理.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "卡片盒筆記法使用說明"
+              "title": "瀏覽器渲染 CSS 決定寬度與高度的基本原理"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "卡片盒筆記法使用說明.md",
+                "file": "02_notes/瀏覽器渲染 CSS 決定寬度與高度的基本原理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 卡片盒筆記法使用說明"
+              "title": "Outline of 瀏覽器渲染 CSS 決定寬度與高度的基本原理"
             }
           },
           {
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,20 +182,21 @@
   "lastOpenFiles": [
     "02_notes/CSS 長度單位.md",
     "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
+    "02_notes/瀏覽器渲染 CSS 決定寬度與高度的基本原理.md",
     "卡片盒筆記法使用說明.md",
+    "example/example_卡片盒筆記法體現了複利效應.md",
+    "example/example_個人知識管理 MOC.md",
+    "example/example_電腦硬體 MOC.md",
+    "template/template_名詞筆記.md",
     "template/template_來源筆記.md",
     "template/template_關係筆記.md",
     "template/template_主題筆記.md",
     "example/example_LCD vs OLED 顯示技術比較.md",
-    "template/template_名詞筆記.md",
     "example/example_與 LLM 關於螢幕顯示原理的問答.md",
     "00_inbox/2025-11-14 - CSS 概念.md",
     "example/example_像素 (Pixel) 與子像素.md",
     "example/example_學習 Rust 程式語言 MOC.md",
-    "example/example_電腦硬體 MOC.md",
     "example/example_C++ - vector vs deque 選擇指南.md",
-    "example/example_卡片盒筆記法體現了複利效應.md",
-    "example/example_個人知識管理 MOC.md",
     "example/example_C++ - vector.md",
     "Untitled 5.base",
     "Untitled 4.base",
@@ -212,7 +213,6 @@
     "02_Notes/📖 一人利基 (Niche of One).md",
     "02_Notes/ReLU 函數.md",
     "03_Maps/MOC - 機器學習.md",
-    "03_Maps/MOC - C++ STL.md",
     "example",
     "01_Inbox",
     "01_sources",
