@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
+                "file": "02_notes/CSS 渲染單位.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-11-15 - 網頁前端基本 CSS 渲染問題"
+              "title": "CSS 渲染單位"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
+                "file": "02_notes/CSS 渲染單位.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-15 - 網頁前端基本 CSS 渲染問題"
+              "title": "Outline of CSS 渲染單位"
             }
           },
           {
@@ -178,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "350ae4fa21d1b64f",
+  "active": "55fa80b06861ff65",
   "lastOpenFiles": [
-    "卡片盒筆記法使用說明.md",
     "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
+    "02_notes/CSS 渲染單位.md",
+    "卡片盒筆記法使用說明.md",
     "template/template_來源筆記.md",
     "template/template_關係筆記.md",
     "template/template_主題筆記.md",
@@ -212,7 +213,6 @@
     "02_Notes/ReLU 函數.md",
     "03_Maps/MOC - 機器學習.md",
     "03_Maps/MOC - C++ STL.md",
-    "03_Maps/🗺 電腦硬體主題.md",
     "example",
     "01_Inbox",
     "01_sources",
