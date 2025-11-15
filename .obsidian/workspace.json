@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d5dec88a2077c0b",
+        "id": "ff906fe30a028ad8",
         "type": "tabs",
         "children": [
           {
-            "id": "84b03336e05c715d",
+            "id": "350ae4fa21d1b64f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "2025-11-15 - 網頁前端基本 CSS 渲染問題"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.49999618530273
+    "width": 231.49999618530273
   },
   "right": {
     "id": "72f62d3cc3f3708e",
@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-11-15 - 網頁前端基本 CSS 渲染問題"
             }
           },
           {
@@ -159,12 +160,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,14 +178,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84b03336e05c715d",
+  "active": "350ae4fa21d1b64f",
   "lastOpenFiles": [
+    "卡片盒筆記法使用說明.md",
     "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
     "template/template_來源筆記.md",
-    "template/template_名詞筆記.md",
-    "template/template_主題筆記.md",
     "template/template_關係筆記.md",
-    "卡片盒筆記法使用說明.md",
+    "template/template_主題筆記.md",
+    "example/example_LCD vs OLED 顯示技術比較.md",
+    "template/template_名詞筆記.md",
     "example/example_與 LLM 關於螢幕顯示原理的問答.md",
     "00_inbox/2025-11-14 - CSS 概念.md",
     "example/example_像素 (Pixel) 與子像素.md",
@@ -195,7 +196,6 @@
     "example/example_卡片盒筆記法體現了複利效應.md",
     "example/example_個人知識管理 MOC.md",
     "example/example_C++ - vector.md",
-    "example/example_LCD vs OLED 顯示技術比較.md",
     "Untitled 5.base",
     "Untitled 4.base",
     "Untitled 3.base",
