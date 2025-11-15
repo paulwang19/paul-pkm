@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_notes/CSS 渲染單位.md",
-                "mode": "source",
+                "file": "卡片盒筆記法使用說明.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CSS 渲染單位"
+              "title": "卡片盒筆記法使用說明"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_notes/CSS 渲染單位.md",
+                "file": "卡片盒筆記法使用說明.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CSS 渲染單位"
+              "title": "Outline of 卡片盒筆記法使用說明"
             }
           },
           {
@@ -178,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55fa80b06861ff65",
+  "active": "350ae4fa21d1b64f",
   "lastOpenFiles": [
+    "02_notes/CSS 長度單位.md",
     "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
-    "02_notes/CSS 渲染單位.md",
     "卡片盒筆記法使用說明.md",
     "template/template_來源筆記.md",
     "template/template_關係筆記.md",
