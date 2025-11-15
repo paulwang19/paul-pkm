@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82be1747d94a5426",
+        "id": "0d5dec88a2077c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "8b6cf46aa6db81e1",
+            "id": "84b03336e05c715d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
-                "mode": "source",
-                "source": true
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-11-15 - 網頁前端基本 CSS 渲染問題"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -140,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-15 - 網頁前端基本 CSS 渲染問題"
+              "title": "Outline"
             }
           },
           {
@@ -164,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 260.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,13 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b6cf46aa6db81e1",
+  "active": "84b03336e05c715d",
   "lastOpenFiles": [
+    "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
     "template/template_來源筆記.md",
     "template/template_名詞筆記.md",
     "template/template_主題筆記.md",
     "template/template_關係筆記.md",
-    "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
     "卡片盒筆記法使用說明.md",
     "example/example_與 LLM 關於螢幕顯示原理的問答.md",
     "00_inbox/2025-11-14 - CSS 概念.md",
