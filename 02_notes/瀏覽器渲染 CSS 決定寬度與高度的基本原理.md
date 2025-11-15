@@ -39,45 +39,27 @@ tags:
 1. 寬度 : 從最外層 `<html>` 開始，由外而內計算，父層寬度決定了子層 `width: auto` 寬度
 2. 高度 : 確定寬度後，代表得知了內容文字在哪裡換行，進而能計算元素高度。此時瀏覽器由內到外，逐一計算所有父層 `height: auto` 的高度，最終撐開所有父元素
 
+# `position: absolute` 計算規則
 
+有時彈出的對話框、或是警告窗，會用到 `position: absolute` 來固定其出現位置，不隨著正常排版流，此時同樣會改變瀏覽器最此元素的長度計算方式
 
+## 對其父元素的改變
 
+- 無視 : 父元素在計算自己的 `height: auto` 時，會當這個子元素不存在。
+	- 如果一個父元素 `<div>` 內部_只有_一個 `position: absolute` 的子元素，那麼這個父元素的高度將會塌陷 (collapse) 為 0
 
+## 元素本身的改變
 
-# 核心洞察
+- 脫離正常排版流 : 其下面的元素會往上移動，好像這個 `position: absolute` 不存在一樣
+- 寬度 : 對於 `width: auto` 的元素，寬度會採用收縮到內容大小 (shrink-to-fit) 的計算方式（就像是 `display: inline-block`）
+- 定位 : 將定位於相對其「定位祖先 (Positioned Ancestor)」的位置
 
-你發現的新想法
+> [!tip] 定位祖先 (Positioned Ancestor)
+> 或稱為包含塊 (Containing Block)，這是 `absolute` 元素用來計算位置和百分比寬度的基準。它指的是離 `absolute` 元素最近的、`position` 值不是 `static`（即 `relative`, `absolute`, `fixed` 或 `sticky`）的祖先元素。如果一個都沒有，基準就是 `<html>` 元素。
+> 
+> 註記 : HTML 元素 `position` 預設值即為 `static`
 
-# 相似之處 / 差異之處 / 整合方式
+# 參考
 
-具體分析
+- Gemini 2.5 Pro
 
-# 我的理解
-
-你的原創思考
-
-# 實際應用
-
-如何應用這個洞察
-
-# 延伸思考
-
-## 未來探索的問題
-
-- 問題 1
-- 問題 2
-
-## 相關概念
-
-- 概念 1
-- 概念 2
-
-## 相關主題
-
-- 主題 1
-- 主題 2
-
-# 參考來源
-
-- 來源 1
-- 來源 2
