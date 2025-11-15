@@ -20,7 +20,7 @@ tags:
 
 對於區塊級元素，瀏覽器計算出父元素寬度後，即對此 `width: auto` 的元素寬度設為父元素寬度，這也是為什麼 `<div>` 預設會占滿一整行
 
-### 行內級元素 (`display: inline-block`)
+### 行內級元素 (`display: inline`)
 
 - 例如： `<span>`, `<a>`, `<strong>`, `<em>` 等
 - 行為：由內容決定寬度
@@ -55,11 +55,19 @@ tags:
 - 定位 : 將定位於相對其「定位祖先 (Positioned Ancestor)」的位置
 
 > [!tip] 定位祖先 (Positioned Ancestor)
-> 或稱為包含塊 (Containing Block)，這是 `absolute` 元素用來計算位置和百分比寬度的基準。它指的是離 `absolute` 元素最近的、`position` 值不是 `static`（即 `relative`, `absolute`, `fixed` 或 `sticky`）的祖先元素。如果一個都沒有，基準就是 `<html>` 元素。
+> 也稱為包含塊 (Containing Block)，這是元素用來計算位置和百分比寬度的基準。定位祖先指的是離 `absolute` 元素最近的、`position` 值不是 `static`（即 `relative`, `absolute`, `fixed` 或 `sticky`）的祖先元素。如果一個都沒有，基準就是 `<html>` 元素。
 > 
 > 註記 : HTML 元素 `position` 預設值即為 `static`
 
-# 參考
+### 動態獲取元素定位祖先方法
 
-- Gemini 2.5 Pro
-
+1. 打開開發者工具 (F12)，切換到「主控台」(Console) 頁籤
+2. 先選中要查詢的元素：
+    - 方法 A：在「元素」(Elements) 頁籤中點選該元素，然後在 Console 中輸入 `$0`。 (`$0` 代表在「元素」頁籤中最後點選的項目)
+    - 方法 B：如果您的元素有 ID (例如 `menu`)，可以直接輸入 `document.getElementById('menu')`
+3. 接著，在該元素後面加上 `.offsetParent` 並按下 Enter
+        
+**範例** :
+```
+$0.offsetParent
+```
