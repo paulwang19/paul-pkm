@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_maps/CSS 網頁前端 MOC.md",
-                "mode": "preview",
+                "file": "02_notes/CSS - display 屬性.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS 網頁前端 MOC"
+              "title": "CSS - display 屬性"
             }
           }
         ]
@@ -179,17 +179,17 @@
   },
   "active": "edc32168421e8fab",
   "lastOpenFiles": [
+    "卡片盒筆記法使用說明.md",
+    "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
+    "03_maps/CSS 網頁前端 MOC.md",
     "02_notes/CSS 長度單位.md",
     "02_notes/CSS - display 屬性.md",
     "example/example_卡片盒筆記法體現了複利效應.md",
-    "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
     "example/example_個人知識管理 MOC.md",
     "02_notes/瀏覽器渲染 CSS 決定寬度與高度的基本原理.md",
-    "03_maps/CSS 網頁前端 MOC.md",
     "example/example_電腦硬體 MOC.md",
     "example/example_學習 Rust 程式語言 MOC.md",
     "template/template_關係筆記.md",
-    "卡片盒筆記法使用說明.md",
     "template/template_來源筆記.md",
     "template/template_名詞筆記.md",
     "template/template_主題筆記.md",
