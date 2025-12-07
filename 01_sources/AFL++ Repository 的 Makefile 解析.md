@@ -31,7 +31,9 @@ Copilot 告訴我這份檔案是將所有指令轉發給 `gmake` (GNU make) 執�
 # 我的疑問
 
 1. 除了有 `make`，還有 `gmake`，是什麼東西? 兩個差在哪裡?
+2. 語法中的 `@` 是甚麼意思?
 
 # 待提煉
 
 - [ ] make (裡面提到 gmake)
+- [ ] Makefile - @
