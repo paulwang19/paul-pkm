@@ -2,14 +2,14 @@
 tags:
   - 📥
 ---
+# 前言
+
+研究論文 fuzzer 時，需要安裝 AFL++ 這項工具，調查其原始碼
+
 # 來源資訊
 
 - **Repository** : [AFLplusplus](https://github.com/AFLplusplus/AFLplusplus)
 - **File** : [./Makefile](https://github.com/AFLplusplus/AFLplusplus/blob/stable/Makefile)
-
-# 前言
-
-研究論文 fuzzer 時，需要安裝 AFL++ 這項工具，調查其原始碼
 
 # 原始碼片段
 
