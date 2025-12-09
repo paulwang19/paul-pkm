@@ -20,13 +20,17 @@
             }
           },
           {
-            "id": "f288bd483b7860a8",
+            "id": "8caebd7dcba8dc46",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01_sources/程式碼覆蓋率工具使用方法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "程式碼覆蓋率工具使用方法"
             }
           }
         ],
@@ -87,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.49999618530273
+    "width": 316.49999618530273
   },
   "right": {
     "id": "72f62d3cc3f3708e",
@@ -187,10 +191,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f288bd483b7860a8",
+  "active": "8caebd7dcba8dc46",
   "lastOpenFiles": [
     "01_sources/AFL++ Repository 的 Makefile 解析.md",
+    "01_sources/程式碼覆蓋率工具使用方法.md",
     "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
+    "template/template_靈感筆記.md",
+    "template/template_關係筆記.md",
+    "template/template_來源筆記.md",
+    "template/template_名詞筆記.md",
+    "template/template_主題筆記.md",
     "卡片盒筆記法使用說明.md",
     "example/example_與 LLM 關於螢幕顯示原理的問答.md",
     "example/example_卡片盒筆記法體現了複利效應.md",
@@ -199,14 +209,10 @@
     "example/example_C++ - vector vs deque 選擇指南.md",
     "example/example_學習 Rust 程式語言 MOC.md",
     "example/example_電腦硬體 MOC.md",
-    "template/template_來源筆記.md",
-    "template/template_關係筆記.md",
     "02_notes/CSS 長度單位.md",
     "02_notes/CSS - display 屬性.md",
     "03_maps/CSS 網頁前端 MOC.md",
     "02_notes/瀏覽器渲染 CSS 決定寬度與高度的基本原理.md",
-    "template/template_名詞筆記.md",
-    "template/template_主題筆記.md",
     "00_inbox/2025-11-14 - CSS 概念.md",
     "example/example_像素 (Pixel) 與子像素.md",
     "example/example_C++ - vector.md",
@@ -220,8 +226,6 @@
     "01_Inbox/📥 TED 演講「為一人利基而打造」觀後感.md",
     "02_Notes/🔗 最小可行社群 vs 最小可行產品.md",
     "02_Notes/📖 最小可行產品 (Minimum Viable Product).md",
-    "02_Notes/📖 最小可行社群 (Minimum Viable Community).md",
-    "02_Notes/📖 一人利基 (Niche of One).md",
     "example",
     "01_Inbox",
     "01_sources",
