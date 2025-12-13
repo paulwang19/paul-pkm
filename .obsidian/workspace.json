@@ -23,14 +23,10 @@
             "id": "8caebd7dcba8dc46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_inbox/2025-12-10 - C++ cin 和 cout 物件的緩衝區原理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-10 - C++ cin 和 cout 物件的緩衝區原理"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -193,10 +189,10 @@
   },
   "active": "8caebd7dcba8dc46",
   "lastOpenFiles": [
-    "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
-    "00_inbox/2025-12-10 - C++ cin 和 cout 物件的緩衝區原理.md",
-    "01_sources/程式碼覆蓋率工具使用方法.md",
     "01_sources/AFL++ Repository 的 Makefile 解析.md",
+    "01_sources/程式碼覆蓋率工具使用方法.md",
+    "00_inbox/2025-12-10 - C++ cin 和 cout 物件的緩衝區原理.md",
+    "00_inbox/2025-11-15 - 網頁前端基本 CSS 渲染問題.md",
     "template/template_靈感筆記.md",
     "template/template_關係筆記.md",
     "template/template_來源筆記.md",
